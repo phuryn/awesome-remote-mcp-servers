@@ -290,6 +290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [AskOne](https://askone.org) `https://askone.org/api/mcp`
+  [![AskOne MCP connector](https://glama.ai/mcp/connectors/io.github.phuryn/askone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.phuryn/askone)
+  🔑 - Run live audience Q&A and polls: start rooms, launch polls, moderate and answer questions, draft a FAQ.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
